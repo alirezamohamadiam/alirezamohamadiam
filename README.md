@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alirezamohamadiam
 - 👀 I’m interested in computer science , nanotechnology in reality science .
-- 🌱 I’m currently learning css , html ,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning css , html 
+- 📫 How to reach me with my e-mail
 
 <!---
 alirezamohamadiam/alirezamohamadiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
