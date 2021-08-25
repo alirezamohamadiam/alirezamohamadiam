@@ -1,5 +1,5 @@
 - 👋 Hi, I’m alireza mohamadi.
-- 👀 I’m interested in computer science , nanotechnology in reality science .
+- 👀 I’m interested in computer science , nanotechnology and actually in science .
 - 🌱 I'm learned css , html .
 -  I'm currently learning JavaScript, tailwind .
 - 📫 How to reach me with my e-mail ; malireza718@gmail.com
