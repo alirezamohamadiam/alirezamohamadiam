@@ -1,6 +1,5 @@
 - 👋 Hi, I’m alireza mohamadi.
 - 👀 I’m interested in computer science , Ml , AI and actually in science .
--  I'm currently learning machine learning and  python .
 - 📫 How to reach me with my e-mail ; malireza718@gmail.com
 
 
