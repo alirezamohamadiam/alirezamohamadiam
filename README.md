@@ -1,17 +1,16 @@
-👋 Hello World! I'm Alireza Mohamadi, a Computer Engineering student with a passion for machine learning and optimization. Currently pursuing my B.Sc. at Islamic Azad University, Kermanshah Branch.
-
-🔍 Research Interests:
-   - Machine Learning
-   - Regression
-   - Optimization
-
-📚 Education:
-   - B.Sc. in Computer Engineering, Islamic Azad University, Kermanshah, Iran (2020-2024)
+👋 Hello World! I'm Alireza Mohamadi, a passionate Computer Science graduate deeply immersed in the world of machine learning and optimization. I hold a Bachelor of Computer Science from Islamic Azad University, Kermanshah Branch.
 
 📝 Latest Publications:
-   - "Designing and Optimizing a Photonic Crystal-Based All-Optical XOR Gate Using Machine Learning" (Majlesi Journal of Electrical Engineering, 2023)
-   - "Data-Driven Approach to Anticipate Castration Resistance in Metastatic castration-sensitive prostate cancer using Random Forest Classifier" (Recently Submitted)
-   - "Advancing Optical Logic: Machine Learning-Driven Optimization of All-Optical AND Gates" (In preparation)
+   - "Designing and Optimizing a Photonic Crystal-Based All-Optical XOR Gate Using Machine Learning" in Majlesi Journal of Electrical Engineering, 2023. (Scopus indexed) [doi: 10.30486/mjee.2023.1984121.1111](Link)
+   - "Data-Driven Approach to Anticipate Castration Resistance in Metastatic castration-sensitive prostate cancer using Random Forest Classifier" (Under Review in JECEI Journal)
+
+📚 Conference Proceedings:
+   - "Neural Network-Driven Optimization of Photonic Crystal-Based All-Optical NOT Gate Design" - Accepted to DCHPC 2024 conference (IEEE indexed)
+   - "Enhancing the Performance of Photonic Crystal AND Gates with Machine Learning Optimization" - Accepted to DCHPC 2024 conference (IEEE indexed)
+   - "Blockchain-Integrated Architecture for Medical Internet of Things (IoMT)" - Accepted to DCHPC 2024 conference (IEEE indexed)
+
+📝 Other Publications:
+   - "Development of a Novel Nanotechnology-Enabled Window with Low-E Technology and Self-Cleaning Capability" presented at The First National Conference on Innovative Ideas in Sustainable Energy [Link]
 
 💼 Academic Experience:
    - Research Assistant optimizing logic gates through machine learning
@@ -31,8 +30,3 @@
    - 🔗 Google Scholar: [Alireza Mohamadi Google Scholar](https://scholar.google.com/citations?user=YourProfileID)
 
 Let's code, learn, and innovate together!
-
-<!---
-alirezamohamadiam/alirezamohamadiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
