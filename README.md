@@ -7,7 +7,7 @@
 📚 Conference Proceedings:
    - "Neural Network-Driven Optimization of Photonic Crystal-Based All-Optical NOT Gate Design" - Accepted to DCHPC 2024 conference (IEEE indexed)
    - "Enhancing the Performance of Photonic Crystal AND Gates with Machine Learning Optimization" - Accepted to DCHPC 2024 conference (IEEE indexed)
-   - "Blockchain-Integrated Architecture for Medical Internet of Things (IoMT)" - Accepted to DCHPC 2024 conference (IEEE indexed)
+
 
 📝 Other Publications:
    - "Development of a Novel Nanotechnology-Enabled Window with Low-E Technology and Self-Cleaning Capability" presented at The First National Conference on Innovative Ideas in Sustainable Energy [Link]
