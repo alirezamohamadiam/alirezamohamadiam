@@ -1,7 +1,7 @@
 👋 Hello World! I'm Alireza Mohamadi, a passionate Computer Science graduate deeply immersed in the world of machine learning and optimization. I hold a Bachelor of Computer Science from Islamic Azad University, Kermanshah Branch.
 
 📝 Latest Publications:
-   - "Designing and Optimizing a Photonic Crystal-Based All-Optical XOR Gate Using Machine Learning" in Majlesi Journal of Electrical Engineering, 2023. (Scopus indexed) [doi: 10.30486/mjee.2023.1984121.1111](Link)
+   - "Designing and Optimizing a Photonic Crystal-Based All-Optical XOR Gate Using Machine Learning" in Majlesi Journal of Electrical Engineering, 2023. (Scopus indexed) doi: 10.30486/mjee.2023.1984121.1111 [https://mjee.isfahan.iau.ir/article_705491.html](Link)
    - "Data-Driven Approach to Anticipate Castration Resistance in Metastatic castration-sensitive prostate cancer using Random Forest Classifier" (Under Review in JECEI Journal)
 
 📚 Conference Proceedings:
