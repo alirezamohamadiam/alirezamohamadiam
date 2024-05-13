@@ -14,7 +14,6 @@
 🔗 Connect with me:
    - 📧 Email: malireza718@gmail.com
    - 🔗 LinkedIn: [Alireza Mohamadi LinkedIn](https://www.linkedin.com/in/alireza-mohamadi-ml/)
-   - 🔗 GitHub: [Alireza Mohamadi GitHub](https://github.com/alirezamohamadiam)
    - 🔗 Google Scholar: [Alireza Mohamadi Google Scholar](https://scholar.google.com/citations?user=YourProfileID)
 
 Let's code, learn, and innovate together!
