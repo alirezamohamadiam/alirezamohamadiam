@@ -23,8 +23,6 @@ I’m Alireza Mohammadi, a ML Researcher at IAU in Kermanshah, Iran. I like gett
   <a href="https://www.linkedin.com/in/alireza-mohamadi-ml" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/alirezamohamadiam" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://scholar.google.com/citations?user=qetrYAwAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?logo=google-scholar&logoColor=white" alt="Google Scholar" />
