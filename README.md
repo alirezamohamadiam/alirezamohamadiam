@@ -17,7 +17,8 @@ I’m Alireza Mohammadi, a Research Assistant at IAU in Kermanshah, Iran. I like
     </tr>
   </table>
 </div>
-## 🌐 Socials:
+
+# 🌐 Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/alireza-mohamadi-ml" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
