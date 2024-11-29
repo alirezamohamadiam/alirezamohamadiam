@@ -26,11 +26,17 @@ I’m Alireza Mohammadi, a Research Assistant at IAU in Kermanshah, Iran. I like
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirezamohamadiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamohamadiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=alirezamohamadiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamohamadiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alirezamohamadiam&icon=5&color=1)](https://visitcount.itsvg.in)
