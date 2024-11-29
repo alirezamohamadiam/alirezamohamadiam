@@ -12,8 +12,6 @@ I’m Alireza Mohammadi, a Research Assistant at IAU in Kermanshah, Iran. I like
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alirezamohamadiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezamohamadiam&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamohamadiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
