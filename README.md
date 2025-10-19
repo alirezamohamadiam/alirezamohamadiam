@@ -36,6 +36,6 @@ I’m Alireza Mohammadi, a ML Researcher. I like getting into creating advanced 
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alirezamohamadiam&icon=5&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=alirezamohamadiam&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
